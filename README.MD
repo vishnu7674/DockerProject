@@ -6,5 +6,8 @@ filename should be Dockerfile.
 ### How to build images from Dockerfile
 
 ...
-docker build -t[docker-hub-URL]/[your-username]/[image-name]:version.
+docker build -t[docker-hub-URL]/[your-username]/[image-name]:version
 ...
+
+### How to push image to Docker hub
+docker push [docker-hub-URL]/[your-username]/[image-name]:version
