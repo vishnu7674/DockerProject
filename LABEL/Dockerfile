@@ -1,0 +1,4 @@
+FROM almalinux
+LABEL AUTHOR="VISHNU"\
+      COURSE="DOCKER"\
+      DURATION="25hrs"
